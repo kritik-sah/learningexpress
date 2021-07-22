@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.cta-text{
+    color: green;
+}
+.cta-text:hover{
+    color: rgb(255, 255, 255) !important;
+}
